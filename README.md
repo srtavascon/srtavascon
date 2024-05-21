@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Atualmente trabalho como Analista de Suporte | Prevenção à fraude.<br>📚 Cursando Engenharia de Software (Terceiro Semestre).<br>🎯 Objetivo: Adquirir experiência prática em desenvolvimento de software através de estágios, projetos acadêmicos ou trabalhos freelancer.<br>🎲 Hobbies: Cinema, Xadrez, Cuidado com Gatos, Autocuidado Feminino.</p>
+<p align="left">✨ Atualmente trabalho como Analista de Suporte | Prevenção à fraude.<br>📚 Cursando Engenharia de Software (Terceiro Semestre).<br>🎯 Objetivo: Adquirir experiência prática em desenvolvimento de software através de estágios, projetos acadêmicos ou trabalhos freelancer.<br>🎲 Hobbies: Cinema, Xadrez, Café.</p>
 
 ###
 
